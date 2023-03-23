@@ -21,7 +21,7 @@ Clone essa aplicação utilizando o [Git](https://git-scm.com) e utilizando os s
 
 ```bash
 # Clonando esse repositório
-$ git clone 
+$ git clone https://github.com/elizarraga27/jogo-mario.git
 ```
 Em seguida execute o arquivo 'index.html' no seu navegador
 
