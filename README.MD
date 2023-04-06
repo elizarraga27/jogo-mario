@@ -1,6 +1,7 @@
 <h4 align="center">SUPER MARIO ENGLISH CHALLENGE</h4> 
 </br>
   <p align="center">Jogo do super mario para responder o nome das cores em inglês usando a API de reconhecimento de voz</p>
+  <p align="center">Link para ver: https://elizarraga27.github.io/jogo-mario.github.io/</p>
 
 ## :white_check_mark: Features
 
